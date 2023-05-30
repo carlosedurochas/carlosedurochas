@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python, JavaScript, C/C++, React Native, PyTorch, TensorFlow.
 - 🌱 I’m currently learning AI, Computer Vision, ML, Deep Learning.
 - 💞️ I’m looking to collaborate on AI's projects.
-- 📫 Reach me in carlinhozrocha@gmail.com
+- 📫 Reach me in carlos.rocha@discente.ufg.br
