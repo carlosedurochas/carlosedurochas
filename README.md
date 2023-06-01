@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carlos Rocha.
+- 👋 Hi, I’m Carlos Rocha. I study Artificial Intelligence at University of Goiás.
 - 👀 I’m interested in Python, JavaScript, C/C++, React Native, PyTorch, TensorFlow.
 - 🌱 I’m currently learning AI, Computer Vision, ML, Deep Learning.
 - 💞️ I’m looking to collaborate on AI's projects.
